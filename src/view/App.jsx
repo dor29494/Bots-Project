@@ -4,7 +4,7 @@ import { BrowserRouter, Route } from "react-router-dom";
 import TopBar from "./TopBar";
 import HomePage from "./HomePage";
 import RoboBrowser from "./RoboBrowser";
-import CreateBot from "./CreateBot1";
+import CreateBot from "./CreateBot";
 import Links from "./MainNav";
 
 const App = () => (
